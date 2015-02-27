@@ -3,7 +3,7 @@ my-little-miss-books
 
 Books my daughter wrote inspired by the [Little Miss](https://en.wikipedia.org/wiki/Mr._Men#.22Little_Miss.22_series) books, translated into HTML flip books.
 
-[Demo](http://robertmaldon.github.io/demo/my-little-miss-books/)
+[Demo](https://rawgithub.com/robertmaldon/my-little-miss-books/master/index.html)
 
 ## Credits
 
